@@ -1,0 +1,7 @@
+{
+  "message_id": "death_note",
+  "scaling": "when_caused_by_living_non_player",
+  "exhaustion": 0.1,
+  "effects": "hurt",
+  "bypass_armor": true
+}

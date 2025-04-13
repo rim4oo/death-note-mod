@@ -1,0 +1,5 @@
+{
+  "item.death_note.death_note": "§cDeath note",
+  "item.death_note.death_note.tooltip": "Kills a random player when used",
+  "death.attack.death_note": "%1$s was killed by the Death Note"
+}

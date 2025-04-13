@@ -1,0 +1,6 @@
+{
+  "item.death_note.death_note": "§cТетрадь смерти",
+  "item.death_note.death_note.tooltip": "При использовании убивает случайного игрока",
+  "death.attack.death_note": "%1$s был убит тетрадью смерти"
+
+}
